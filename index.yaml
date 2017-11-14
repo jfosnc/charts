@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ibm-iib-dev-hhg:
+  - apiVersion: v1
+    created: 2017-11-14T14:07:53.2786338-05:00
+    description: IBM Integration Bus for application integration, routing and transformation
+    digest: 2e5943c423eb43fc486017aceb048a446a5c5d4331665b9e8405d47cd4f05e80
+    icon: https://raw.githubusercontent.com/ot4i/iib-helm/master/ibm-integration-bus-dev/IBM_Integration_Bus_Icon.svg?sanitize=true
+    name: ibm-iib-dev-hhg
+    tillerVersion: '>=2.4.1'
+    urls:
+    - ibm-iib-dev-hhg-1.0.4.tgz
+    version: 1.0.4
+generated: 2017-11-14T14:07:53.2766324-05:00
